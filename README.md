@@ -6,6 +6,3 @@ This is an example repository
 
 Hello world!
 
-# New header
-
-This is new line
